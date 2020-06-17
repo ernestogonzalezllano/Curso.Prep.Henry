@@ -5,8 +5,21 @@
 	height: 600px;
 	padding: 50px;
 	border: 20px dotted green; 
+  margin-left: auto;
+  margin-right: auto;
+
+
 
 }
 #spanId{
 	margin: 50px;
+	font-style: color="red";
+
+}
+body{
+	background-image: url(https://sm.ign.com/t/ign_latam/screenshot/default/goku-cumpleanos_tbbp.1280.jpg);
+
+}
+div {
+text-align: center;
 }
