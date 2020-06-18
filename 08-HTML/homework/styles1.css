@@ -1,0 +1,26 @@
+
+#thirdDiv{
+	background-color: gold;
+	width: 500px;
+	height: 600px;
+	padding: 50px;
+	border: 20px dotted green; 
+
+
+
+}
+#spanId{
+	margin: 50px;
+	font-style: color="red";
+
+}
+body{
+	background-image: url(https://sm.ign.com/t/ign_latam/screenshot/default/goku-cumpleanos_tbbp.1280.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+
+}
+div {
+}
